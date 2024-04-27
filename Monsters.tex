@@ -1,0 +1,252 @@
+
+\chapter{Monsters}\label{Monsters}
+\DndDropCapLine{T}{he army of Amcys is equipped} with weapons more advanced than anywhere else on the continent.\\
+% Monster stat block
+\begin{DndMonster}[width=0.5\textwidth + 8pt]{Amcysian Rifleman}
+    \DndMonsterType{Medium Human, Lawful Evil}
+
+    % If you want to use commas in the key values, enclose the values in braces.
+    \DndMonsterBasics[
+        armor-class = {16},
+        hit-points  = {\DndDice{7d10 + 2}},
+        speed       = {30 ft.},
+      ]
+
+    \DndMonsterAbilityScores[
+        str = 12,
+        dex = 18,
+        con = 14,
+        int = 10,
+        wis = 12,
+        cha = 12,
+      ]
+
+    \DndMonsterDetails[
+        saving-throws = {Dex +8, Wis +6},
+        %skills = {Acrobatics +0, Animal Handling +0, Arcana +0, Athletics +0, Deception +0, History +0, Insight +0, Intimidation +0, Investigation +0, Medicine +0, Nature +0, Perception +0, Performance +0, Persuasion +0, Religion +0, Sleight of Hand +0, Stealth +0, Survival +0},
+        %damage-vulnerabilities = {cold},
+        %damage-resistances = {bludgeoning, piercing, and slashing from nonmagical attacks},
+        %damage-immunities = {poison},
+        %condition-immunities = {poisoned},
+        senses = {passive Perception 15},
+        languages = {Common},
+        challenge = 2,
+      ]
+    % Traits
+    
+
+    \DndMonsterSection{Actions}
+    \DndMonsterAction{Multiattack}
+    The rifleman makes two ranged attacks.
+
+    %Default values are shown commented out
+    \DndMonsterAttack[
+      name=Rifle,
+      distance=ranged, % valid options are in the set {both,melee,ranged},
+      %type=weapon, %valid options are in the set {weapon,spell}
+      mod=+8,
+      %reach=5,
+      range=150/300,
+      targets=one target,
+      dmg=\DndDice{2d8+4},
+      dmg-type=piercing,
+      %plus-dmg=,
+      %plus-dmg-type=,
+      %or-dmg=,
+      %or-dmg-when=,
+      %extra=,
+    ]
+
+\end{DndMonster}
+
+\begin{DndMonster}[float*=b,width=0.5\textwidth + 8pt]{Amcysian Lieutenant}
+    \DndMonsterType{Medium Human, Lawful Evil}
+
+    % If you want to use commas in the key values, enclose the values in braces.
+    \DndMonsterBasics[
+        armor-class = {18},
+        hit-points  = {\DndDice{12d10 + 3}},
+        speed       = {30 ft.},
+      ]
+
+    \DndMonsterAbilityScores[
+        str = 12,
+        dex = 20,
+        con = 16,
+        int = 10,
+        wis = 12,
+        cha = 12,
+      ]
+
+    \DndMonsterDetails[
+        saving-throws = {Dex +10, Wis +8},
+        skills = {Perception +5},
+        %damage-vulnerabilities = {cold},
+        damage-resistances = {bludgeoning, piercing, and slashing from nonmagical attacks},
+        %damage-immunities = {poison},
+        %condition-immunities = {poisoned},
+        senses = {passive Perception 15},
+        languages = {Common},
+        challenge = 4,
+      ]
+    % Traits
+    
+
+    \DndMonsterSection{Actions}
+    \DndMonsterAction{Multiattack}
+    The lieutenant makes two ranged attacks with their rifle, or one with their sniper.
+
+    %Default values are shown commented out
+    \DndMonsterAttack[
+      name=Rifle,
+      distance=ranged, % valid options are in the set {both,melee,ranged},
+      %type=weapon, %valid options are in the set {weapon,spell}
+      mod=+10,
+      %reach=5,
+      range=150/300,
+      targets=one target,
+      dmg=\DndDice{2d8+5},
+      dmg-type=piercing,
+      %plus-dmg=,
+      %plus-dmg-type=,
+      %or-dmg=,
+      %or-dmg-when=,
+      %extra=,
+    ]
+    \DndMonsterAttack[
+      name=Sniper,
+      distance=ranged, % valid options are in the set {both,melee,ranged},
+      %type=weapon, %valid options are in the set {weapon,spell}
+      mod=+10,
+      %reach=5,
+      range=300/600,
+      targets=one target,
+      dmg=\DndDice{6d8+5},
+      dmg-type=piercing,
+      %plus-dmg=,
+      %plus-dmg-type=,
+      %or-dmg=,
+      %or-dmg-when=,
+      extra={, and this weapon will strike a critical hit with a dice roll of 19 as well as 20. This weapon has disadvantage if the target is within 100 ft}
+    ]
+
+\end{DndMonster}
+
+\begin{DndMonster}[float*=b,width=0.5\textwidth + 8pt]{Angry Bed Sheet}
+    \DndMonsterType{Medium Construct, Unaligned}
+
+    % If you want to use commas in the key values, enclose the values in braces.
+    \DndMonsterBasics[
+        armor-class = {11},
+        hit-points  = {\DndDice{3d8}},
+        speed       = {10 ft.},
+      ]
+
+    \DndMonsterAbilityScores[
+        str = 14,
+        dex = 14,
+        con = 10,
+        int = 1,
+        wis = 3,
+        cha = 1,
+      ]
+
+    \DndMonsterDetails[
+        %saving-throws = {Dex +10, Wis +8},
+        %skills = {Acrobatics +0, Animal Handling +0, Arcana +0, Athletics +0, Deception +0, History +0, Insight +0, Intimidation +0, Investigation +0, Medicine +0, Nature +0, Perception +0, Performance +0, Persuasion +0, Religion +0, Sleight of Hand +0, Stealth +0, Survival +0},
+        %damage-vulnerabilities = {cold},
+        damage-resistances = {bludgeoning, piercing, and slashing from nonmagical attacks},
+        %damage-immunities = {poison},
+        condition-immunities = {Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned},
+        senses = {Blindsight 60 ft. (blind beyond this radius), Passive Perception 6},
+        languages = {--},
+        challenge = 1/4,
+      ]
+    % Traits
+    \DndMonsterAction{Antimagic Susceptibility} The bed sheet is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the bed sheet must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
+    \DndMonsterAction{Damage Transfer} While it is grappling a creature, the bed sheet takes only half the damage dealt to it, and the creature grappled by the bed sheet takes the other half.
+    \DndMonsterAction{False Appearance} While the rug remains motionless, it is indistinguishable from a normal rug.
+
+    \DndMonsterSection{Actions}
+    %Default values are shown commented out
+    \DndMonsterAttack[
+      name=Smother,
+      distance=melee, % valid options are in the set {both,melee,ranged},
+      %type=weapon, %valid options are in the set {weapon,spell}
+      mod=+4,
+      reach=5,
+      %range=150/300,
+      targets=one medium or smaller creature,
+      %dmg=\DndDice{1d6+2},
+      %dmg-type=bludgeoning,
+      %plus-dmg=,
+      %plus-dmg-type=,
+      %or-dmg=,
+      %or-dmg-when=,
+      extra={The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the bed sheet can't smother another target. In addition, at the start of each of the target's turns, the target takes 1d6+2 bludgeoning damage.}
+    ]
+   
+\end{DndMonster}
+\begin{DndMonster}[float*=b,width=0.5\textwidth + 8pt]{Color Eater}
+    \DndMonsterType{Medium Monstrosity, Neutral Evil}
+
+    % If you want to use commas in the key values, enclose the values in braces.
+    \DndMonsterBasics[
+        armor-class = {14},
+        hit-points  = {\DndDice{7d10+14}},
+        speed       = {30 ft.},
+      ]
+
+    \DndMonsterAbilityScores[
+        str = 7,
+        dex = 14,
+        con = 14,
+        int = 16,
+        wis = 14,
+        cha = 20,
+      ]
+
+    \DndMonsterDetails[
+        saving-throws = {Dex +5, Wis +5},
+        skills = {Performance +8, Stealth +5},
+        %damage-vulnerabilities = {cold},
+        %damage-resistances = {bludgeoning, piercing, and slashing from nonmagical attacks},
+        %damage-immunities = {poison},
+        condition-immunities = {Blinded},
+        senses = {passive Perception 12},
+        languages = {Common},
+        challenge = 6,
+      ]
+    % Traits
+    
+    \DndMonsterAction{Color Shield} The Color Eater cannot be damaged by any attacks or spells that are of a mostly colorless pigmentation such as black, white, silver, or grey (this includes most bladed weapons or natural claws.)
+    \DndMonsterAction{Spellcasting} The Color Eater is a 7th level spellcaster. Its spellcasting ability is Charisma (spell DC 16, +8 to hit with spell attacks), and it can cast Color Wheel at will as a 4th level spell.\\
+    \noindent 1st Level (3 Slots): \textit{Absorb Elements}\\
+    \noindent 2nd Level (2 Slots): \textit{Color Spray}\\ 
+    \noindent 3rd Level (2 Slots): \textit{Hypnotic Pattern}\\
+    \noindent 4th Level (1 Slot): \textit{Vitriolic Sphere, Color Wheel} (which can be cast at will)\\
+    
+    \DndMonsterSection{Actions}
+    %Default values are shown commented out
+    \DndMonsterAttack[
+      name=Color Siphon,
+      distance=ranged, % valid options are in the set {both,melee,ranged},
+      %type=weapon, %valid options are in the set {weapon,spell}
+      mod=+8,
+      %reach=5,
+      range=15,
+      targets=one creature,
+      dmg=\DndDice{4d8+5},
+      dmg-type=psychic,
+      %plus-dmg=,
+      %plus-dmg-type=,
+      %or-dmg=,
+      %or-dmg-when=,
+      extra={The target is siphoned of it ability to wield any objects or produce any effects or spells that create the color which matches the current shade of the Color Eater for 24 hours. Non-magical, non-living objects on the target such as clothes which are of the color siphoned permanently lose their color. All colors fall into the category of either red, orange, yellow, green, blue, purple, black, white, or grey at the DM's discretion. The color eater regains a number of hit points equal to the number of distinct items of this color are on the target, up to a maximum of 10}
+    ]
+    \\
+    
+   \DndMonsterSection{Bonus Actions}
+   \DndMonsterAction{Color Change} The Color Eater can change its color. The color choices are red, orange, yellow, green, blue, or purple.
+   \DndMonsterAction{Shapechange} The Color Eater can assume the form of any humanoid it has seen, or revert to its true form. It cannot use any of its other abilities in a humanoid form.
+\end{DndMonster}

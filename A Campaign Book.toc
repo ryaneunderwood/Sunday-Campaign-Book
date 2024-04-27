@@ -1,0 +1,187 @@
+\babel@toc {english}{}
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}New Playable Races}{1}%
+\contentsline {section}{Arborean}{1}%
+\contentsline {subsection}{Merope's Chosen}{1}%
+\contentsline {subsection}{Shepherds of the Forest}{1}%
+\contentsline {subsection}{Arborean Traits}{1}%
+\contentsline {subparagraph}{Ability Score Increase}{1}%
+\contentsline {subparagraph}{Age}{1}%
+\contentsline {subparagraph}{Alignment}{1}%
+\contentsline {subparagraph}{Size}{1}%
+\contentsline {subparagraph}{Creature Type}{1}%
+\contentsline {subparagraph}{Speed}{1}%
+\contentsline {subparagraph}{Photosynthesis}{1}%
+\contentsline {subparagraph}{Rootsense}{1}%
+\contentsline {subparagraph}{Bark}{1}%
+\contentsline {subparagraph}{Languages}{1}%
+\contentsline {subparagraph}{Subrace}{1}%
+\contentsline {subsubsection}{Hardwood Arborean}{1}%
+\contentsline {subparagraph}{Ability Score Increase}{2}%
+\contentsline {subparagraph}{Extra Sturdy}{2}%
+\contentsline {subparagraph}{Seasonal Form}{2}%
+\contentsline {subparagraph}{Spring Form}{2}%
+\contentsline {subparagraph}{Summer Form}{2}%
+\contentsline {subparagraph}{Autumn Form}{2}%
+\contentsline {subparagraph}{Winter Form}{2}%
+\contentsline {subsubsection}{Evergreen Arborean}{2}%
+\contentsline {subparagraph}{Ability Score Increase}{2}%
+\contentsline {subparagraph}{Spiky}{2}%
+\contentsline {subparagraph}{Pitch}{2}%
+\contentsline {subsubsection}{Palmetto Arborean}{2}%
+\contentsline {subparagraph}{Ability Score Increase}{2}%
+\contentsline {subparagraph}{Stormweathered}{2}%
+\contentsline {subparagraph}{Coconut Drop}{2}%
+\contentsline {subsubsection}{Fruiting Arborean}{2}%
+\contentsline {subparagraph}{Ability Score Increase}{2}%
+\contentsline {subparagraph}{Fruiting Bounty}{2}%
+\contentsline {subparagraph}{Grafting}{3}%
+\contentsline {subsubsection}{Petrified Wood Arborean}{3}%
+\contentsline {subparagraph}{Ability Score Increase}{3}%
+\contentsline {subparagraph}{Languages}{3}%
+\contentsline {subparagraph}{Creature Type}{3}%
+\contentsline {subparagraph}{Fossilized}{3}%
+\contentsline {subparagraph}{Darkvision}{3}%
+\contentsline {section}{Crystallin}{3}%
+\contentsline {subsection}{Carnivorous Hunters}{3}%
+\contentsline {subsection}{Crystallin Traits}{3}%
+\contentsline {subparagraph}{Ability Score Increase}{3}%
+\contentsline {subparagraph}{Age}{3}%
+\contentsline {subparagraph}{Alignment}{3}%
+\contentsline {subparagraph}{Size}{4}%
+\contentsline {subparagraph}{Speed}{4}%
+\contentsline {subparagraph}{Hunter's Nature}{4}%
+\contentsline {subparagraph}{Blood of Ice}{4}%
+\contentsline {subparagraph}{Spine Shards}{4}%
+\contentsline {subparagraph}{Languages}{4}%
+\contentsline {section}{Flameblooded}{4}%
+\contentsline {subsection}{Iona's Children}{4}%
+\contentsline {subsection}{A Charred Soul}{4}%
+\contentsline {subsection}{Life on the Road}{5}%
+\contentsline {subsection}{Flameblooded Traits}{5}%
+\contentsline {subparagraph}{Ability Score Increase}{5}%
+\contentsline {subparagraph}{Age}{5}%
+\contentsline {subparagraph}{Alignment}{5}%
+\contentsline {subparagraph}{Size}{5}%
+\contentsline {subparagraph}{Speed}{5}%
+\contentsline {subparagraph}{Darkvision}{5}%
+\contentsline {subparagraph}{Blood of Fire}{5}%
+\contentsline {subparagraph}{Scalding Sword}{5}%
+\contentsline {subparagraph}{Languages}{5}%
+\contentsline {section}{Lurkers}{5}%
+\contentsline {section}{Seafolk}{5}%
+\contentsline {chapter}{\numberline {2}New Playable Class and Subclasses}{6}%
+\contentsline {section}{Mentalist}{6}%
+\contentsline {subsection}{Detectives and Investigators}{6}%
+\contentsline {subsection}{Seeing What Others Miss}{6}%
+\contentsline {subsection}{Creating a Mentalist}{6}%
+\contentsline {subsubsection}{Quick Build}{6}%
+\contentsline {section}{Class Features}{6}%
+\contentsline {subsubsection}{Hit Points}{6}%
+\contentsline {subsubsection}{Proficiencies}{7}%
+\contentsline {subsubsection}{Equipment}{7}%
+\contentsline {subsubsection}{Stick Fighting}{7}%
+\contentsline {subsubsection}{Unarmored Defense}{7}%
+\contentsline {subsubsection}{Keen Eye}{7}%
+\contentsline {subsubsection}{Anticipation}{7}%
+\contentsline {subsubsection}{Logical Mind}{7}%
+\contentsline {subsubsection}{Extra Attack}{7}%
+\contentsline {subsubsection}{Deduction}{7}%
+\contentsline {subsubsection}{Observist}{7}%
+\contentsline {subsubsection}{Watchful Eyes}{8}%
+\contentsline {subsubsection}{Unavoidable Presence}{8}%
+\contentsline {subsubsection}{Precise Attack}{8}%
+\contentsline {subsubsection}{Act Natural}{8}%
+\contentsline {subsubsection}{Let's Try That Again}{8}%
+\contentsline {subsubsection}{True Understanding}{8}%
+\contentsline {subsubsection}{Predictive Master}{8}%
+\contentsline {section}{Mentalist Observation Specialties}{8}%
+\contentsline {subsection}{Observer of Body}{8}%
+\contentsline {subsubsection}{Can't Touch This}{8}%
+\contentsline {subsubsection}{Find the Weak Point}{8}%
+\contentsline {subsubsection}{Unarmored Defense Improvement}{8}%
+\contentsline {subsubsection}{Stunning Smack}{8}%
+\contentsline {subsection}{Observer of Mind}{9}%
+\contentsline {subsubsection}{Extra Proficiencies}{9}%
+\contentsline {subsubsection}{Words of Reckoning}{9}%
+\contentsline {subsubsection}{Mind Fortress}{9}%
+\contentsline {subsubsection}{Frightful Presence}{9}%
+\contentsline {subsubsection}{Penetrating Gaze}{9}%
+\contentsline {subsection}{Observer of Magic}{9}%
+\contentsline {subsubsection}{Wisely Dodged}{9}%
+\contentsline {subsubsection}{Anti-Mage}{9}%
+\contentsline {subsubsection}{Spell Thief}{9}%
+\contentsline {subsubsection}{Magi's Demise}{9}%
+\contentsline {subsection}{Observer of Nature}{10}%
+\contentsline {subsubsection}{Touch Grass}{10}%
+\contentsline {subsubsection}{Elemental Understanding}{10}%
+\contentsline {subsubsection}{Natural Detective}{10}%
+\contentsline {subsubsection}{Weatherman}{10}%
+\contentsline {section}{College of Colors Bard}{10}%
+\contentsline {subsection}{Paint-Marked}{10}%
+\contentsline {subsection}{Caricature}{11}%
+\contentsline {subsection}{Portrait Walking}{11}%
+\contentsline {subsection}{Drain Color}{11}%
+\contentsline {section}{Circle of Rainbows Druid}{11}%
+\contentsline {subsection}{Circle Spells}{11}%
+\contentsline {subsection}{Pot of Gold}{11}%
+\contentsline {subsection}{Rainbow Road}{12}%
+\contentsline {subsection}{Chasing Rainbows}{12}%
+\contentsline {subsection}{Color Blessing}{12}%
+\contentsline {subsection}{Color Body}{12}%
+\contentsline {section}{Punk Rogue}{12}%
+\contentsline {subsection}{Upstart}{12}%
+\contentsline {subsection}{Channel Your Rage}{12}%
+\contentsline {subsection}{Rallying Cry}{12}%
+\contentsline {subsection}{Burn it Down}{12}%
+\contentsline {subsection}{Glorious Cause}{12}%
+\contentsline {section}{Way of Balance Monk}{13}%
+\contentsline {subsection}{Balanced Vitality}{13}%
+\contentsline {subsection}{Balanced Abilities}{13}%
+\contentsline {subsection}{The Balance of Life and Death}{13}%
+\contentsline {subsection}{Mirror of Good and Evil}{13}%
+\contentsline {chapter}{\numberline {3}Spells}{14}%
+\contentsline {subsection}{Bolt Jump}{14}%
+\contentsline {paragraph}{Casting Time}{14}%
+\contentsline {paragraph}{Range}{14}%
+\contentsline {paragraph}{Components}{14}%
+\contentsline {paragraph}{Duration}{14}%
+\contentsline {paragraph}{Spell Lists}{14}%
+\contentsline {subsection}{Choir of Angels}{14}%
+\contentsline {paragraph}{Casting Time}{14}%
+\contentsline {paragraph}{Range}{14}%
+\contentsline {paragraph}{Components}{14}%
+\contentsline {paragraph}{Duration}{14}%
+\contentsline {paragraph}{At Higher Levels}{14}%
+\contentsline {paragraph}{Spell Lists}{14}%
+\contentsline {subsection}{Color Wheel}{14}%
+\contentsline {paragraph}{Casting Time}{14}%
+\contentsline {paragraph}{Range}{14}%
+\contentsline {paragraph}{Components}{14}%
+\contentsline {paragraph}{Duration}{14}%
+\contentsline {paragraph}{At Higher Levels}{14}%
+\contentsline {paragraph}{Spell Lists}{14}%
+\contentsline {subsection}{Gather Shadows}{14}%
+\contentsline {paragraph}{Casting Time}{14}%
+\contentsline {paragraph}{Range}{14}%
+\contentsline {paragraph}{Components}{14}%
+\contentsline {paragraph}{Duration}{14}%
+\contentsline {paragraph}{Spell Lists}{14}%
+\contentsline {subsection}{Lesser Water Walk}{15}%
+\contentsline {paragraph}{Casting Time}{15}%
+\contentsline {paragraph}{Range}{15}%
+\contentsline {paragraph}{Components}{15}%
+\contentsline {paragraph}{Duration}{15}%
+\contentsline {paragraph}{Spell Lists}{15}%
+\contentsline {chapter}{\numberline {4}Items}{16}%
+\contentsline {section}{Thunder Axe}{16}%
+\contentsline {section}{Shakarr's Pocketwatch}{16}%
+\contentsline {section}{Kramic's Woe}{16}%
+\contentsline {section}{River Glaive}{16}%
+\contentsline {section}{Superior River Glaive}{16}%
+\contentsline {section}{Fruits of Forgetting}{16}%
+\contentsline {section}{Sacred Cherries}{16}%
+\contentsline {section}{Moss of Domingo}{16}%
+\contentsline {section}{Itvarian Cactus Nectar}{16}%
+\contentsline {section}{Cloak of Minja Ricic}{16}%
+\contentsfinish 
